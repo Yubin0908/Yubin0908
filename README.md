@@ -1,5 +1,5 @@
  # LINK
- ### 1차 개인 프로젝트 멍이랑 냥이랑 <a href="https://github.com/Yubin0908/animal_Project"><img src="https://img.shields.io/badge/멍이랑 냥이랑]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1차 개인 프로젝트 멍이랑 냥이랑 <a href="https://github.com/Yubin0908/animal_Project"><img src="https://img.shields.io/badge/[멍이랑 냥이랑]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 2차 팀 프로젝트  XX <a href="#"><img src="https://img.shields.io/badge/팀프로젝트명-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/Yubin0908/Java"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
