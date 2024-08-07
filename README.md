@@ -1,4 +1,6 @@
 ## 미래를 준비하는 개발자 <b>장종락</b> 입니다. 저의 포트폴리오 방문을 환영합니다.
+
+<br>
  
  # LINK
  > ## 1차 개인 프로젝트 - 애견(묘) 분양 정보 사이트
@@ -7,7 +9,6 @@
  ###      - <a href="https://github.com/Yubin0908/k-park"><img src="https://img.shields.io/badge/KPark-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/Yubin0908/Java"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br>
 <br>
 
  # 📚 SKIL
