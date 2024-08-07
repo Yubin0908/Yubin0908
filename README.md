@@ -15,4 +15,4 @@
 
  ### WEB programming <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
 
- ### framework <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-SPRING_BOOT-36d975?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-myBatis-FF7A00?style=for-the-badge&logo=hibernate&logoColor=white"/>![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+ ### framework <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-SPRING_BOOT-36d975?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-myBatis-FF7A00?style=for-the-badge&logo=hibernate&logoColor=white"/> ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
