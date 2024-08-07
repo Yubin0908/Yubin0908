@@ -1,3 +1,5 @@
+# 미래를 준비하는 개발자 장종락 입니다. 저의 포트폴리오 방문을 환영합니다.
+ 
  # LINK
  ### 1차 개인 프로젝트 멍이랑 냥이랑 <a href="https://github.com/Yubin0908/animal_Project"><img src="https://img.shields.io/badge/[멍이랑 냥이랑]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 2차 팀 프로젝트  K-공원 <a href="https://github.com/Yubin0908/k-park"><img src="https://img.shields.io/badge/K공원-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
